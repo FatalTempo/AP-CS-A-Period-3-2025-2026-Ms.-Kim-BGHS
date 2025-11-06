@@ -1,0 +1,33 @@
+PART 1: BUG DOCUMENTATION
+
+Bug #1
+Line number: 5
+Explain the type of error: Syntax error
+-------------------------------------
+Bug #2
+Line number: 6
+Explain the type of error: Syntax error
+-------------------------------------
+Bug #3
+Line number: 7
+Explain the type of error: Syntax error
+-------------------------------------
+Bug #4
+Line number: 9
+Explain the type of error: Logic error
+-------------------------------------
+Bug #5
+Line number: 9
+Explain the type of error: Syntax error
+-------------------------------------
+Bug #6
+Line number: 
+Explain the type of error: Syntax error
+
+===========================================
+PART 2: DEBUGGING REFLECTION
+1. 
+
+2. 
+
+3.
