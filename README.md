@@ -3,6 +3,13 @@ This is a repo for all my answers for the codehs class, use it to study from me 
 
 For the writing assignments where you type and answer and not code, I just spammed gibberish and skipped it. Ms. Kim said that she will not be checking those.
 
-Investigate.txt is not checked (only exception is 1.1.10 Debugging: Quotes) so it is not present in these folders.
+Investigate.txt is not checked by CodeHS
+(only exception is
+1.1.10 Debugging: Quotes
+1.8.2 Exploration: Effective Comments
+)
+so it is usually not present in these folders.
 
 Ms. Kim checks for completion so copy and pasting should be safe.
+
+TODO: finish and add 3.4 and up
